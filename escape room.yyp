@@ -5,10 +5,10 @@
   "resources": [
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
-    {"id":{"name":"move_state","path":"scripts/move_state/move_state.yy",},"order":2,},
+    {"id":{"name":"src_move_state","path":"scripts/src_move_state/src_move_state.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
-    {"id":{"name":"get_input","path":"scripts/get_input/get_input.yy",},"order":1,},
+    {"id":{"name":"src_get_input","path":"scripts/src_get_input/src_get_input.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

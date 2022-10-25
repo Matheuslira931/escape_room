@@ -1,2 +1,1 @@
-script_execute(move_state);
-
+script_execute(choose(src_move_state()));
