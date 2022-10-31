@@ -1,5 +1,9 @@
 script_execute(src_get_input);
-function src_move_state() {
+
+#region
+show_debug_message("antes da funcition moviemnte");
+function movimention() {
+	show_debug_message("dentro funcition moviemnte");
 	xAxis = (key_right - key_left);
 	yAxis = (key_down - key_up);
 
@@ -26,7 +30,8 @@ function src_move_state() {
 	 hSeepdStep = 0;
 	}
 	x += hSeepdStep;
-
+	
+	
 	//vertical
 	if place_meeting(x, y+vSeepdStep,obj_wall){
 	 while !place_meeting(x, y+vSeepdStep,obj_wall){
@@ -34,5 +39,7 @@ function src_move_state() {
 	 }
 	 vSeepdStep = 0;
 	}
-	y += vSeepStep;
+	y += vSeepdStep;	
+
 }
+#endregion

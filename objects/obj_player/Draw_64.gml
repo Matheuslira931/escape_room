@@ -1,0 +1,1 @@
+draw_text(65, 53, global.coin)
