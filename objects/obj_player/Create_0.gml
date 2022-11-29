@@ -10,3 +10,4 @@ global.life = 4;
 global.coin = 0;
 
 
+

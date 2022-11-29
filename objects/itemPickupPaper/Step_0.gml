@@ -13,3 +13,7 @@ if place_meeting(x,y,obj_range) {
 }else {
 	canbreake = false;
 }
+
+if (global.coin == 7) {
+	room_goto(rm_end);
+}
