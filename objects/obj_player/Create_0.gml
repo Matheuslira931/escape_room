@@ -1,5 +1,5 @@
 
-speedStep = 5;
+speedStep = 4;
 collision = speedStep + 0;
 length = 0;
 directionPlayer = 0;

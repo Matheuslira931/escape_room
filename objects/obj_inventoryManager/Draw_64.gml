@@ -1,0 +1,1 @@
+//draw_sprite(spr_inventory,-1,guiHolderPosX,40);
