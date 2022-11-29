@@ -8,3 +8,5 @@ vSeepdStep = 0;
 image_speed = 0;
 global.life = 4;
 global.coin = 0;
+
+
